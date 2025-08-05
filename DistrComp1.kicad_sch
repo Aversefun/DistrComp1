@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "93d01c84-5800-481d-b590-f03807f35ec3")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 21.59 21.59)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1ce3ef17-80de-437c-b111-56576c49a665")
+		(property "Sheetname" "Blade"
+			(at 21.59 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "blade.kicad_sch"
+			(at 21.59 25.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DistrComp1"
+				(path "/93d01c84-5800-481d-b590-f03807f35ec3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 30.48)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a4e43913-28da-4a92-b343-bc3b7445f36e")
+		(property "Sheetname" "SheathL0"
+			(at 21.59 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheath.kicad_sch"
+			(at 21.59 34.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DistrComp1"
+				(path "/93d01c84-5800-481d-b590-f03807f35ec3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 39.37)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c4cc809f-7746-4f84-9734-2a2440e70548")
+		(property "Sheetname" "SheathL1"
+			(at 21.59 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheath1.kicad_sch"
+			(at 21.59 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DistrComp1"
+				(path "/93d01c84-5800-481d-b590-f03807f35ec3"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
